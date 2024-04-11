@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>qss/ThemeFirst.css</file>
-        <file>qss/ThemeSecond.css</file>
-    </qresource>
-</RCC>
