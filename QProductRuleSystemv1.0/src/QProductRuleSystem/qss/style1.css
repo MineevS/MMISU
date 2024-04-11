@@ -1,0 +1,45 @@
+QDialog {
+	background-color: #55557f;
+	border: 1pxsolidwhite;
+	color: #ffffff;
+}
+QDockWidget {
+	background-color: #55557f;
+	color: #000000;
+}
+QMainWindow {
+	background-color: #ffaa00;
+	border: 1pxsolidwhite;
+	color: #ffffff;
+}
+QMdiArea {
+	border: 5pxsolid#000000;
+	border-radius: 10px;
+	qproperty-background: #000000;
+}
+QMenuBar {
+	background-color: #55557f;
+	color: #ffffff;
+}
+QPushButton {
+	background-color: white;
+}
+QSliderButton {
+	background-color: #f4f400;
+	color: #ff5500;
+}
+QLabel#labelClassA {
+	background-color: #55557f;
+	color: #ffffff;
+}
+QLabel#labelClassB {
+	background-color: #000000;
+	color: #ffffff;
+}
+QLabel#labelClassC {
+	color: #005500;
+}
+QWidget#widgetElem {
+	background-color: white;
+	border-radius: 10px;
+}

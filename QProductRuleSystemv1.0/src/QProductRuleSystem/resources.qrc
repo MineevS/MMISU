@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/exit.png</file>
+        <file>qss/ThemeFirst.css</file>
+        <file>qss/ThemeSecond.css</file>
+        <file>qss/style1.css</file>
+        <file>icons/buttons/Hover/close.png</file>
+        <file>icons/buttons/Hover/collapse.png</file>
+        <file>icons/buttons/Hover/hide.png</file>
+        <file>icons/buttons/Hover/settings.png</file>
+        <file>icons/buttons/Pressed/close.png</file>
+        <file>icons/buttons/Pressed/close2.png</file>
+        <file>icons/buttons/Pressed/collapse.png</file>
+        <file>icons/buttons/Pressed/collapse2.png</file>
+        <file>icons/buttons/Pressed/hide.png</file>
+        <file>icons/buttons/Pressed/settings.png</file>
+        <file>icons/panel/ciclogramm.png</file>
+        <file>icons/panel/conRun.png</file>
+        <file>icons/panel/disRun.png</file>
+        <file>icons/panel/packet.png</file>
+        <file>icons/panel/static.png</file>
+        <file>icons/iconApp.ico</file>
+        <file>icons/panel/conf.png</file>
+    </qresource>
+</RCC>
